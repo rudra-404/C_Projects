@@ -112,7 +112,7 @@ void reset()
 void menu()
 {
 	system("cls");
-	printf("--------| Parking Management System |--------\n\n");
+	printf("--------------| Main Menu |--------------\n\n");
 	printf("1. Enter Car\n");
 	printf("2. Enter Bike\n");
 	printf("3. Enter Cycle\n");
