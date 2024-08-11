@@ -1,8 +1,10 @@
-%%%%%%%%%%%%%%%%%% Parking Management System %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Parking Management System %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Here You Can Only Park Three Types Of Vehicles !
+Here You Can Park Only Three Types Of Vehicles ! Vehicles Are - CAR, BIKE and CYCLE
 
-Car Parking ---------> 100 TK
-Bike Parking --------> 50 TK
-Cycle Parking -------> 20 TK
+Parking Price Per Vehicle :-
+
+# Car ----------------------------------------------> 100 TK
+# Bike ---------------------------------------------> 50 TK
+# Cycle --------------------------------------------> 20 TK
 
