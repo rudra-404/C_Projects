@@ -1,0 +1,8 @@
+%%%%%%%%%%%%%%%%%% Parking Management System %%%%%%%%%%%%%%%%%%
+
+Here You Can Only Park Three Types Of Vehicles !
+
+Car Parking ---------> 100 TK
+Bike Parking --------> 50 TK
+Cycle Parking -------> 20 TK
+
